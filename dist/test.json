@@ -1,0 +1,36 @@
+{
+    "sel": "div",
+    "data": {
+        "class": {
+            "box": true
+        }
+    },
+    "children": [
+        {
+            "sel": "h3",
+            "data": {},
+            "text": "我是葫芦爷爷"
+        },
+        {
+            "sel": "ul",
+            "data": {},
+            "children": [
+                {
+                    "sel": "li",
+                    "data": {},
+                    "text": "我是大娃"
+                },
+                {
+                    "sel": "li",
+                    "data": {},
+                    "text": "我是二娃"
+                },
+                {
+                    "sel": "li",
+                    "data": {},
+                    "text": "我是三娃"
+                }
+            ]
+        }
+    ]
+}
